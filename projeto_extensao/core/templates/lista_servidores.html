@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block container %}
+
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <div class="container">
+                    <div class="row">
+                        <div class="span12">
+                            <form class="navbar-form pull-left" action="/lista_servidores/" method="post">
+                                {% csrf_token %}
+                                <input name="query" class="span2" type="text" placeholder="Pesquisa">
+                                <button type="submit" class="btn">Search</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <br>
+
+                <ul class="breadcrumb">
+                    <li>
+                        <a href=" {% url 'estatistica' %}">Estatística</a> <span class="divider">|</span>
+                    </li>
+                    <li>
+                        <b>Servidores</b>
+                    </li>
+                </ul>
+
+                <table class="table table-hover table-condensed">
+                    <thead>
+                        <tbody class="fonte alert alert-info">
+                            <th>Nome</th>
+                            <th>Título</th>
+                            <th>Ramal</th>
+                            <th>Email</th>
+                            <th>Coordenador</v>
+                            <th>Participante</th>
+                        </tbody>
+                        {% for servidor in lista_servidores %}
+                            <tr>
+                                <td><a href="{{ servidor.0 }}">{{ servidor.1 }}</a></td>
+                                <td>{{ servidor.2 }}</td>
+                                <td>{{ servidor.3 }}</td>
+                                <td>{{ servidor.4 }}</td>
+                                <td>{{ servidor.5 }}</td>
+                                <td>{{ servidor.6 }}</td> <!--email-->
+                            </tr>
+                        {% endfor %}
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

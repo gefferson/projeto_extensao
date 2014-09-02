@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+
+{% block container %}
+
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+
+                <ul class="breadcrumb">
+                    <li>
+                        <a href=" {% url 'lista_projetos' %}">Lista Projeto</a> <span class="divider">|</span>
+                    </li>
+                    <li>
+                        <b>Projeto:</b> {{ projeto }} - {% for nome in bolsistas %}{{ nome }}{% endfor %}
+                    </li>
+                </ul><br>
+
+{#                <table class="table table-hover table-condensed">#}
+{#                        <thead>#}
+{#                            <tr class="fonte">#}
+{#                                <th>Nome</th>#}
+{#                                <th>Coordenador</th>#}
+{#                                <th>Bolsista</th>#}
+{#                                <th>Prof. Participante</th>#}
+{#                                <th>Aluno participante</th>#}
+{#                                <th>Modalidade</th>#}
+{#                                <th>Status</th>#}
+{#                                <th>Edital/Ano</th>#}
+{#                                <th>Data início</th>#}
+{#                                <th>Data fim</th>#}
+{#                                <th>Ativo</th>#}
+{#                            </tr>#}
+{#                        </thead>#}
+{#                        <tbody>#}
+{#                            <tr>#}
+{#                                <td>{{ projeto }}</td>#}
+{#                                <td>{{ projeto.coordenador }}</td>#}
+{#                                <td>{% for nome in bolsistas %}{{ nome|linebreaks }}{% endfor %}</td>#}
+{#                                <td>{% for nome in professores_participantes %}{{ nome|linebreaks }}{% endfor %}</td>#}
+{#                                <td>{% for nome in alunos_participantes %}{{ nome|linebreaks }}{% endfor %}</td>#}
+{#                                <td>{{ modalidade }}</td>#}
+{#                                <td>{{ status }}</td>#}
+{#                                <td>{{ projeto.edital_ano }}</td>#}
+{#                                <td>{{ data_inicio|date:'d M Y' }}</td>#}
+{#                                <td>{{ data_fim|date:'d M Y' }}</td>#}
+{#                                <td>{% if ativo %} <i class="icon-ok"></i> {% else %} <i class="icon-remove"></i> {% endif %}</td> <!-- colocar campo boleano -->#}
+{#                            </tr>#}
+{#                        </tbody>#}
+{#                </table>#}
+                <table class="table table-hover table-condensed">
+                    <tr>
+                        <th class="fonte">Nome</th><td>{{ projeto }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Coordenador</th><td>{{ coordenador }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Bolsistas</th><td>{% for nome in bolsistas %}{{ nome|linebreaks }}{% endfor %}</td></td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Professor Participante</th><td>{% for nome in professores_participantes %}{{ nome|linebreaks }}{% endfor %}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Aluno Participante</th><td>{% for nome in alunos_participantes %}{{ nome|linebreaks }}{% endfor %}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Modalidade</th><td>{{ modalidade }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Status</th><td>{{ status }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Edital Ano</th><td>{{ edital }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Data Início</th><td>{{ data_inicio|date:'d M Y' }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Data Fim</th><td>{{ data_fim|date:'d M Y' }}</td>
+                    </tr>
+                    <tr>
+                        <th class="fonte">Ativo</th><td>{% if ativo %} <i class="icon-ok"></i> {% else %} <i class="icon-remove"></i> {% endif %}</td>
+                    </tr>
+                    <tr>
+                        <th></th><th>{% if pdf %}<a href="{{ MEDIA_URL }}{{ pdf }}" class="btn btn-primary" download>Download</a>{% endif %}</th>
+                    </tr>
+                </table>
+                <a href="{% url 'projeto' slug=projeto.slug %}" class="btn btn-primary">Editar</a>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

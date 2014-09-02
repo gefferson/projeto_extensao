@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="row">
+        <div class="span12">
+            <form class="navbar-form pull-left" action="/lista_projetos/" method="post">
+                {% csrf_token %}
+                <input name="query" class="span2" type="text" placeholder="Pesquisa">
+                <button type="submit" class="btn">Search</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block estatistica %} class="active" {% endblock %}
+
+{% block container %}
+
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+                <ul class="breadcrumb">
+                    <li>
+                        Estatística
+                    </li>
+                </ul>
+                    <table class="table table-bordered">
+                        <thead>
+                            <tbody class="well">
+                                <td><a href="{% url 'lista_projetos' %}">Número projetos cadastrados</a></td>
+                                <td><a href="{% url 'lista_servidores' %}">Número servidores cadastrados</a></td>
+                                <td><a href="{% url 'lista_cursos' %}">Número cursos cadastrados</a></td>
+                                <td><a href="{% url 'lista_alunos' %}">Número alunos cadastrados</a></td>
+                            </tbody>
+                                <tr>
+                                    <th>{{ contagem_projeto }}</th>
+                                    <th>{{ contagem_servidores }}</th>
+                                    <th>{{ contagem_cursos }}</th>
+                                    <th>{{ contagem_alunos }}</th>
+                                </tr>
+                        </thead>
+                    </table>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

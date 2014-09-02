@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% block curso %} class='active' {% endblock %}
+
+{% block container %}
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <ul class="breadcrumb">
+                        <li>
+                            Curso
+                        </li>
+                    </ul>
+                    <div class="row">
+                        <div class="span6">
+
+                            <form class="form-horizontal" method="post" action="">
+                                {% include 'form.html' %}
+                                <div class="form-actions">
+                                    <button type="submit" class="btn bnt-primary">
+                                        Cadastrar
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="span4 offset2">
+                            <h4>Curso</h4>
+                            {% for cursos in curso %}
+                                <li>{{ cursos }}</li>
+                            {% endfor %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+{% endblock %}

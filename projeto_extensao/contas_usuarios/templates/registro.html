@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block cadastro %} class='active' {% endblock %}
+
+{% block container %}
+    <div class="container">
+        <div class="row">
+            <div class="span12">
+
+                <div class="page-header">
+                    <h2>Cadastro<small> Informe seus dados para cadastro</small></h2>
+                    <b>Cuidado!</b> <small>São consideradas letras maiúsculas e minúsculas</small>
+                </div>
+
+                <legend>Cadastro de {{form.Meta.verbose_name}}</legend>
+                <form class="form-horizontal" method="post" action="/perfil/">
+                    {% csrf_token %}
+                        {{ form }}
+                    <div class="form-actions">
+                        <button type="submit" class="btn bnt-primary">
+                            Salvar
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+{% endblock %}

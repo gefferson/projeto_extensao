@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="528edfd6-47d3-4494-b3d9-1b364719d2c5" name="Default" comment="" />
+    <ignored path="projeto_extensao.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/projeto_extensao$manage.coverage" NAME="manage Coverage Results" MODIFIED="1409338046611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="projeto_extensao" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contas_usuarios/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2631579" vertical-offset="0" max-vertical-offset="480">
+              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/extencao/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="3030">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="legacy_db.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contas_usuarios/legacy_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="945">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/projeto_extencao/core/models.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/core/templates/base.html" />
+        <option value="$PROJECT_DIR$/projeto_extencao/core/templates/detalhe_projeto.html" />
+        <option value="$PROJECT_DIR$/projeto_extencao/projeto_extencao/settings.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/__init__.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/contas_usuarios/utils.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/contas_usuarios/templates/registro.html" />
+        <option value="$PROJECT_DIR$/projeto_extencao/projeto_extencao/urls.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/core/views.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/contas_usuarios/views.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/core/templates/login.html" />
+        <option value="$PROJECT_DIR$/projeto_extencao/extencao/urls.py" />
+        <option value="$PROJECT_DIR$/projeto_extencao/contas_usuarios/legacy_db.py" />
+        <option value="/usr/local/lib/python2.7/site-packages/django/contrib/auth/models.py" />
+        <option value="$PROJECT_DIR$/contas_usuarios/utils.py" />
+        <option value="$PROJECT_DIR$/extencao/urls.py" />
+        <option value="$PROJECT_DIR$/queries.sql" />
+        <option value="$PROJECT_DIR$/core/templates/detalhe_aluno.html" />
+        <option value="$PROJECT_DIR$/contas_usuarios/templates/registro.html" />
+        <option value="$PROJECT_DIR$/contas_usuarios/views.py" />
+        <option value="$PROJECT_DIR$/core/templates/base.html" />
+        <option value="$PROJECT_DIR$/core/templates/detalhe_projeto.html" />
+        <option value="$PROJECT_DIR$/core/views.py" />
+        <option value="$PROJECT_DIR$/core/forms.py" />
+        <option value="$PROJECT_DIR$/extencao/static/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/extencao/static_files/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/core/models.py" />
+        <option value="$PROJECT_DIR$/core/admin.py" />
+        <option value="$PROJECT_DIR$/contas_usuarios/models.py" />
+        <option value="$PROJECT_DIR$/contas_usuarios/legacy_db.py" />
+        <option value="$PROJECT_DIR$/extencao/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extencao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contas_usuarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="projeto_extensao" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contas_usuarios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../projeto_extensao/extensao/bin/python2.7" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projeto_extencao/core" />
+      <recent name="$PROJECT_DIR$/projeto_extencao/projeto_extencao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/projeto_extencao" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/../../projeto_extensao/extensao/bin/python" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="runserver" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="manage" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="projeto_extensao" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.manage" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="528edfd6-47d3-4494-b3d9-1b364719d2c5" name="Default" comment="" />
+      <created>1406845160185</created>
+      <updated>1406845160185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="702" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32674772" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25234374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39969605" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32543445" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/core/templates/curso.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/lista_projetos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/estastistica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/projeto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/lista_servidores.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/pesquisa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/aluno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/detalhe_servidor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/modalidade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2205">
+          <caret line="73" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/lista_alunos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53424656" vertical-offset="315" max-vertical-offset="900">
+          <caret line="34" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/templates/registro.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46391752" vertical-offset="45" max-vertical-offset="510">
+          <caret line="15" column="68" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/detalhe_projeto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.88" vertical-offset="1095" max-vertical-offset="1470">
+          <caret line="51" column="65" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/detalhe_aluno.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5798969" vertical-offset="15" max-vertical-offset="930">
+          <caret line="16" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40048543" vertical-offset="0" max-vertical-offset="1035">
+          <caret line="24" column="45" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="585" max-vertical-offset="2985">
+          <caret line="58" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6932668" vertical-offset="71617" max-vertical-offset="94530">
+          <caret line="4793" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/static_files/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30922693" vertical-offset="4181" max-vertical-offset="94530">
+          <caret line="287" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="606">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3571428" vertical-offset="0" max-vertical-offset="4965">
+          <caret line="63" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="780">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_aluno">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_aluno</OriginalElement>
+          <nodes>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto_bolsistas</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto_aluno_participante</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_aluno</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="293.0" y="208.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PIL/GbrImagePlugin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33280253" vertical-offset="196" max-vertical-offset="1155">
+          <caret line="27" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao</OriginalElement>
+          <nodes>
+            <node x="" y="">PIL.EpsImagePlugin.PSFile</node>
+            <node x="" y="">PIL.ImageFilter.SMOOTH</node>
+            <node x="" y="">PIL.ImageFilter.ModeFilter</node>
+            <node x="" y="">PIL.ImageStat.Stat</node>
+            <node x="" y="">PIL.GimpGradientFile.GimpGradientFile</node>
+            <node x="" y="">PIL.ImageCms.ImageCmsProfile</node>
+            <node x="" y="">PIL.ArgImagePlugin.ArgImageFile</node>
+            <node x="" y="">PIL.TarIO.TarIO</node>
+            <node x="" y="">core.admin.EditalAdmin</node>
+            <node x="" y="">_abcoll.Iterator</node>
+            <node x="" y="">PIL.PaletteFile.PaletteFile</node>
+            <node x="" y="">PIL.Image._E</node>
+            <node x="" y="">PIL.PngImagePlugin._idat</node>
+            <node x="" y="">django.contrib.admin.options.BaseModelAdmin</node>
+            <node x="" y="">PIL.ImageWin.Window</node>
+            <node x="" y="">PIL.ImageFilter.FIND_EDGES</node>
+            <node x="" y="">core.models.Pessoa</node>
+            <node x="" y="">PIL.ImagePath.Path</node>
+            <node x="" y="">PIL.ImageFilter.UnsharpMask</node>
+            <node x="" y="">PIL.ImageMath._Operand</node>
+            <node x="" y="">PIL.BmpImagePlugin.DibImageFile</node>
+            <node x="" y="">PIL.ImageDraw2.Draw</node>
+            <node x="" y="">exceptions.Exception</node>
+            <node x="" y="">PIL.ImageFilter.SMOOTH_MORE</node>
+            <node x="" y="">PIL.ImageWin.Dib</node>
+            <node x="" y="">PIL.IcoImagePlugin.IcoImageFile</node>
+            <node x="" y="">PIL.BdfFontFile.BdfFontFile</node>
+            <node x="" y="">PIL.PSDraw.PSDraw</node>
+            <node x="" y="">PIL.ImageFilter.GaussianBlur</node>
+            <node x="" y="">PIL.GimpPaletteFile.GimpPaletteFile</node>
+            <node x="" y="">django.contrib.auth.models.AbstractUser</node>
+            <node x="" y="">django.test.testcases.TransactionTestCase</node>
+            <node x="" y="">PIL.ImageFilter.RankFilter</node>
+            <node x="" y="">PIL.ImageFilter.CONTOUR</node>
+            <node x="" y="">PIL.ImageDraw2.Font</node>
+            <node x="" y="">core.forms.ModalidadeForm</node>
+            <node x="" y="">PIL.McIdasImagePlugin.McIdasImageFile</node>
+            <node x="" y="">PIL.FliImagePlugin.FliImageFile</node>
+            <node x="" y="">PIL.XbmImagePlugin.XbmImageFile</node>
+            <node x="" y="">PIL.FpxImagePlugin.FpxImageFile</node>
+            <node x="" y="">unittest.case.TestCase</node>
+            <node x="" y="">PIL.ImtImagePlugin.ImtImageFile</node>
+            <node x="" y="">PIL.ImageShow.XVViewer</node>
+            <node x="" y="">PIL.WmfImagePlugin.WmfHandler</node>
+            <node x="" y="">PIL.GbrImagePlugin.GbrImageFile</node>
+            <node x="" y="">core.forms.PessoaForm</node>
+            <node x="" y="">PIL.ImageShow.MacViewer</node>
+            <node x="" y="">django.forms.models.BaseModelForm</node>
+            <node x="" y="">PIL.PsdImagePlugin.PsdImageFile</node>
+            <node x="" y="">PIL.PpmImagePlugin.PpmImageFile</node>
+            <node x="" y="">PIL.Image.Image</node>
+            <node x="" y="">PIL.ImageFont.TransposedFont</node>
+            <node x="" y="">PIL.ImageFilter.EDGE_ENHANCE_MORE</node>
+            <node x="" y="">PIL.ContainerIO.ContainerIO</node>
+            <node x="" y="">PIL.OleFileIO._OleStream</node>
+            <node x="" y="">django.forms.widgets.Widget</node>
+            <node x="" y="">core.widgets.YearWidget</node>
+            <node x="" y="">PIL.ImageCms.ImageCmsTransform</node>
+            <node x="" y="">PIL.ImageCms.PyCMSError</node>
+            <node x="" y="">PIL.ArgImagePlugin.ArgStream</node>
+            <node x="" y="">PIL.GdImageFile.GdImageFile</node>
+            <node x="" y="">PIL.SunImagePlugin.SunImageFile</node>
+            <node x="" y="">PIL.Image.ImageTransformHandler</node>
+            <node x="" y="">core.models.Ediatal_ano</node>
+            <node x="" y="">django.contrib.auth.models.AbstractBaseUser</node>
+            <node x="" y="">contas_usuarios.legacy_db.LegacyPessoaFisica</node>
+            <node x="" y="">PIL.ImageFont._imagingft_not_installed</node>
+            <node x="" y="">StringIO.StringIO</node>
+            <node x="" y="">PIL.ImageQt.ImageQt</node>
+            <node x="" y="">PIL.PcdImagePlugin.PcdImageFile</node>
+            <node x="" y="">PIL.TgaImagePlugin.TgaImageFile</node>
+            <node x="" y="">PIL.ImagePalette.ImagePalette</node>
+            <node x="" y="">PIL.IcnsImagePlugin.IcnsImageFile</node>
+            <node x="" y="">PIL.ImageEnhance.Brightness</node>
+            <node x="" y="">core.forms.ContatoForm</node>
+            <node x="" y="">PIL.ImageWin.HDC</node>
+            <node x="" y="">PIL.ImageFile.Parser</node>
+            <node x="" y="">_abcoll.Sized</node>
+            <node x="" y="">PIL.ImageFilter.BuiltinFilter</node>
+            <node x="" y="">_abcoll.Hashable</node>
+            <node x="" y="">PIL.BmpImagePlugin.BmpImageFile</node>
+            <node x="" y="">django.test.testcases.SimpleTestCase</node>
+            <node x="" y="">PIL.MspImagePlugin.MspImageFile</node>
+            <node x="" y="">django.forms.models.ModelForm</node>
+            <node x="" y="">core.admin.AlunoAdmin</node>
+            <node x="" y="">core.tests.SimpleTest</node>
+            <node x="" y="">PIL.PngImagePlugin.PngInfo</node>
+            <node x="" y="">PIL.ImageFilter.MedianFilter</node>
+            <node x="" y="">PIL.ImageTransform.MeshTransform</node>
+            <node x="" y="">PIL.XpmImagePlugin.XpmImageFile</node>
+            <node x="" y="">core.admin.ModalidadeAdmin</node>
+            <node x="" y="">PIL.ImageTransform.AffineTransform</node>
+            <node x="" y="">PIL.PcfFontFile.PcfFontFile</node>
+            <node x="" y="">PIL.PixarImagePlugin.PixarImageFile</node>
+            <node x="" y="">core.models.Servidor</node>
+            <node x="" y="">django.db.models.base.Model</node>
+            <node x="" y="">core.models.Aluno</node>
+            <node x="" y="">PIL.ImageEnhance.Sharpness</node>
+            <node x="" y="">django.forms.forms.BaseForm</node>
+            <node x="" y="">PIL.PngImagePlugin.ChunkStream</node>
+            <node x="" y="">PIL.MicImagePlugin.MicImageFile</node>
+            <node x="" y="">django.contrib.admin.options.ModelAdmin</node>
+            <node x="" y="">PIL.ImageFont.FreeTypeFont</node>
+            <node x="" y="">PIL.ImageFilter.MinFilter</node>
+            <node x="" y="">PIL.ImageTransform.Transform</node>
+            <node x="" y="">PIL.ImImagePlugin.ImImageFile</node>
+            <node x="" y="">PIL.GifImagePlugin.GifImageFile</node>
+            <node x="" y="">PIL.SpiderImagePlugin.SpiderImageFile</node>
+            <node x="" y="">core.models.Modalidade</node>
+            <node x="" y="">PIL.OleFileIO.OleFileIO</node>
+            <node x="" y="">PIL.PcxImagePlugin.PcxImageFile</node>
+            <node x="" y="">_abcoll.Callable</node>
+            <node x="" y="">PIL.ImageEnhance._Enhance</node>
+            <node x="" y="">PIL.ImageShow.UnixViewer</node>
+            <node x="" y="">PIL.ImageShow.WindowsViewer</node>
+            <node x="" y="">PIL.ImageWin.HWND</node>
+            <node x="" y="">PIL.ImageEnhance.Contrast</node>
+            <node x="" y="">PIL.Hdf5StubImagePlugin.HDF5StubImageFile</node>
+            <node x="" y="">PIL.Image._imaging_not_installed</node>
+            <node x="" y="">PIL.ImageDraw2.Brush</node>
+            <node x="" y="">PIL.FontFile.FontFile</node>
+            <node x="" y="">PIL.CurImagePlugin.CurImageFile</node>
+            <node x="" y="">contas_usuarios.tests.SimpleTest</node>
+            <node x="" y="">PIL.ImageWin.ImageWindow</node>
+            <node x="" y="">PIL.IptcImagePlugin.IptcImageFile</node>
+            <node x="" y="">PIL.ImageFile.ImageFile</node>
+            <node x="" y="">PIL.ImageFilter.EMBOSS</node>
+            <node x="" y="">PIL.ImageDraw2.Pen</node>
+            <node x="" y="">core.models.Projeto</node>
+            <node x="" y="">PIL.ImageSequence.Iterator</node>
+            <node x="" y="">PIL.Image.ImagePointHandler</node>
+            <node x="" y="">core.forms.ServidorForm</node>
+            <node x="" y="">PIL.ImageFileIO.ImageFileIO</node>
+            <node x="" y="">PIL.GimpGradientFile.GradientFile</node>
+            <node x="" y="">PIL.ImageEnhance.Color</node>
+            <node x="" y="">PIL.DcxImagePlugin.DcxImageFile</node>
+            <node x="" y="">PIL.Image._ImageCrop</node>
+            <node x="" y="">PIL.ImageTk.PhotoImage</node>
+            <node x="" y="">PIL.TiffImagePlugin.ImageFileDirectory</node>
+            <node x="" y="">_abcoll.Iterable</node>
+            <node x="" y="">PIL.IcnsImagePlugin.IcnsFile</node>
+            <node x="" y="">PIL.JpegImagePlugin.JpegImageFile</node>
+            <node x="" y="">PIL.ImageFilter.BLUR</node>
+            <node x="" y="">core.admin.ServidorAdmin</node>
+            <node x="" y="">PIL.FitsStubImagePlugin.FITSStubImageFile</node>
+            <node x="" y="">PIL.ImageFont.ImageFont</node>
+            <node x="" y="">PIL.MpegImagePlugin.BitStream</node>
+            <node x="" y="">core.forms.EditalFom</node>
+            <node x="" y="">core.forms.AlunoForm</node>
+            <node x="" y="">object</node>
+            <node x="" y="">PIL.ImageDraw.ImageDraw</node>
+            <node x="" y="">PIL.WmfImagePlugin.WmfStubImageFile</node>
+            <node x="" y="">exceptions.BaseException</node>
+            <node x="" y="">PIL.OleFileIO._OleDirectoryEntry</node>
+            <node x="" y="">PIL.ImageShow.Viewer</node>
+            <node x="" y="">PIL.PngImagePlugin.PngStream</node>
+            <node x="" y="">django.contrib.auth.models.PermissionsMixin</node>
+            <node x="" y="">django.test.testcases.TestCase</node>
+            <node x="" y="">core.admin.ProjetoAdmin</node>
+            <node x="" y="">PIL.ImageFile.StubImageFile</node>
+            <node x="" y="">PIL.ImageGL.TextureFactory</node>
+            <node x="" y="">PIL.ImageShow.DisplayViewer</node>
+            <node x="" y="">django.contrib.auth.models.User</node>
+            <node x="" y="">PIL.SgiImagePlugin.SgiImageFile</node>
+            <node x="" y="">PIL.ImageTransform.ExtentTransform</node>
+            <node x="" y="">core.forms.ProjetoForm</node>
+            <node x="" y="">PIL.ImageTk.BitmapImage</node>
+            <node x="" y="">PIL.ImageFilter.Filter</node>
+            <node x="" y="">PIL.MpegImagePlugin.MpegImageFile</node>
+            <node x="" y="">PIL.ImageFilter.MaxFilter</node>
+            <node x="" y="">contas_usuarios.legacy_db.LegacyUser</node>
+            <node x="" y="">PIL.ImageFilter.SHARPEN</node>
+            <node x="" y="">PIL.TiffImagePlugin.TiffImageFile</node>
+            <node x="" y="">django.forms.forms.Form</node>
+            <node x="" y="">PIL.GribStubImagePlugin.GribStubImageFile</node>
+            <node x="" y="">PIL.ImageFilter.EDGE_ENHANCE</node>
+            <node x="" y="">PIL.ImageFile._ParserFile</node>
+            <node x="" y="">PIL.ImageFilter.Kernel</node>
+            <node x="" y="">PIL.ImageTransform.QuadTransform</node>
+            <node x="" y="">PIL.PngImagePlugin.PngImageFile</node>
+            <node x="" y="">PIL.EpsImagePlugin.EpsImageFile</node>
+            <node x="" y="">QImage</node>
+            <node x="" y="">PIL.ImageMode.ModeDescriptor</node>
+            <node x="" y="">PIL.ImageFilter.DETAIL</node>
+            <node x="" y="">PIL.BufrStubImagePlugin.BufrStubImageFile</node>
+            <node x="" y="">PIL.XVThumbImagePlugin.XVThumbImageFile</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.114959114959115" x="419.0" y="251.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/core">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/core</OriginalElement>
+          <nodes>
+            <node x="" y="">django.contrib.admin.options.ModelAdmin</node>
+            <node x="" y="">core.forms.PessoaForm</node>
+            <node x="" y="">core.models.Modalidade</node>
+            <node x="" y="">core.forms.EditalFom</node>
+            <node x="" y="">django.forms.models.BaseModelForm</node>
+            <node x="" y="">_abcoll.Callable</node>
+            <node x="" y="">core.forms.AlunoForm</node>
+            <node x="" y="">object</node>
+            <node x="" y="">core.admin.EditalAdmin</node>
+            <node x="" y="">_abcoll.Iterator</node>
+            <node x="" y="">django.contrib.admin.options.BaseModelAdmin</node>
+            <node x="" y="">core.models.Pessoa</node>
+            <node x="" y="">django.test.testcases.TestCase</node>
+            <node x="" y="">django.forms.widgets.Widget</node>
+            <node x="" y="">django.contrib.auth.models.PermissionsMixin</node>
+            <node x="" y="">core.admin.ProjetoAdmin</node>
+            <node x="" y="">core.widgets.YearWidget</node>
+            <node x="" y="">django.contrib.auth.models.User</node>
+            <node x="" y="">core.models.Ediatal_ano</node>
+            <node x="" y="">django.contrib.auth.models.AbstractBaseUser</node>
+            <node x="" y="">core.forms.ProjetoForm</node>
+            <node x="" y="">django.contrib.auth.models.AbstractUser</node>
+            <node x="" y="">core.forms.ContatoForm</node>
+            <node x="" y="">django.forms.forms.Form</node>
+            <node x="" y="">django.test.testcases.TransactionTestCase</node>
+            <node x="" y="">_abcoll.Hashable</node>
+            <node x="" y="">core.models.Projeto</node>
+            <node x="" y="">core.forms.ServidorForm</node>
+            <node x="" y="">django.test.testcases.SimpleTestCase</node>
+            <node x="" y="">django.forms.models.ModelForm</node>
+            <node x="" y="">core.admin.AlunoAdmin</node>
+            <node x="" y="">core.tests.SimpleTest</node>
+            <node x="" y="">core.forms.ModalidadeForm</node>
+            <node x="" y="">core.admin.ModalidadeAdmin</node>
+            <node x="" y="">_abcoll.Iterable</node>
+            <node x="" y="">unittest.case.TestCase</node>
+            <node x="" y="">django.db.models.base.Model</node>
+            <node x="" y="">core.models.Servidor</node>
+            <node x="" y="">core.models.Aluno</node>
+            <node x="" y="">django.forms.forms.BaseForm</node>
+            <node x="" y="">core.admin.ServidorAdmin</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.5998327059807612" x="787.0" y="1651.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios</OriginalElement>
+          <nodes>
+            <node x="" y="">django.test.testcases.SimpleTestCase</node>
+            <node x="" y="">contas_usuarios.legacy_db.LegacyPessoaFisica</node>
+            <node x="" y="">django.test.testcases.TestCase</node>
+            <node x="" y="">_abcoll.Callable</node>
+            <node x="" y="">contas_usuarios.legacy_db.LegacyUser</node>
+            <node x="" y="">unittest.case.TestCase</node>
+            <node x="" y="">object</node>
+            <node x="" y="">django.test.testcases.TransactionTestCase</node>
+            <node x="" y="">django.db.models.base.Model</node>
+            <node x="" y="">contas_usuarios.tests.SimpleTest</node>
+            <node x="" y="">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="463.0" y="-164.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios/views.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios/views.py</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="478.0" y="301.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.schema:projetos_extensao">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.schema:projetos_extensao</OriginalElement>
+          <nodes>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_group_permissions</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_ediatal_ano</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.django_admin_log</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.django_content_type</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_group</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_pessoa</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto_professor_participante</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.django_site</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_modalidade</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.pessoa_fisica_academico</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.usuario_academico</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_servidor</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_user_user_permissions</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_permission</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto_bolsistas</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto_aluno_participante</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.django_session</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_aluno</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_user_groups</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.auth_user</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.44991789819376027" x="1052.0" y="563.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto</OriginalElement>
+          <nodes>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_aluno</node>
+            <node x="" y="">5ad41c02-a183-4630-9ea6-a9de7ba7e7c8.table:projetos_extensao.core_projeto</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="144.0" y="197.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Columns</Category>
+            <Category>Key columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios/models.py">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>#/Users/geffersonvivan/Projetos/Projeto_Extensão_Tiago/projeto_extensao/contas_usuarios/models.py</OriginalElement>
+          <nodes>
+            <node x="" y="">core.models.Aluno</node>
+            <node x="" y="">core.models.Projeto</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="208.0" y="241.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/core.models.Modalidade">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>core.models.Modalidade</OriginalElement>
+          <nodes>
+            <node x="" y="">core.models.Modalidade</node>
+            <node x="" y="">django.db.models.base.Model</node>
+            <node x="" y="">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="111.0" y="82.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://Python/core.models.Projeto">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>Python</ID>
+          <OriginalElement>core.models.Projeto</OriginalElement>
+          <nodes>
+            <node x="97.0" y="102.0">django.db.models.base.Model</node>
+            <node x="461.0" y="0.0">core.models.Aluno</node>
+            <node x="0.0" y="336.0">core.models.Projeto</node>
+            <node x="125.5" y="0.0">_abcoll.Hashable</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="core.models.Projeto" target="django.db.models.base.Model">
+              <point x="0.0" y="-180.5" />
+              <point x="0.0" y="92.0" />
+            </edge>
+            <edge source="django.db.models.base.Model" target="_abcoll.Hashable">
+              <point x="0.0" y="-92.0" />
+              <point x="0.0" y="26.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.8659942363112392" x="272.0" y="137.0" />
+          <SelectedNodes>
+            <node>_abcoll.Hashable</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/templates/servidor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5797101" vertical-offset="0" max-vertical-offset="660">
+          <caret line="20" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9057971" vertical-offset="330" max-vertical-offset="975">
+          <caret line="50" column="10" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2244389" vertical-offset="1260" max-vertical-offset="2100">
+          <caret line="84" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/legacy_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="975">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extencao/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="3030">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contas_usuarios/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2631579" vertical-offset="0" max-vertical-offset="480">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

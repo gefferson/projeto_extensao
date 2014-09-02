@@ -1,0 +1,70 @@
+{% extends 'base.html' %}
+
+{% block contato %} class='active' {% endblock %}
+
+{% block container %}
+
+    <div class="container">
+        <div class="row">
+            <div class="span6">
+                <ul class="breadcrumb">
+                    <li>
+                        Contato
+                    </li>
+                </ul>
+
+        {% if sucesso %}
+            <div class="alert alert-success">
+                Mensagem enviada com sucesso.
+            </div>
+        {% else %}
+        <form action="" method="POST">
+            {% csrf_token %}
+            {% for field in form %}
+                <div class="control-group{% if field.errors %} error {% endif %}">
+                    {{ field.label_tag }}
+                    {{ field }}
+                    {% if field.errors %}
+                    <span class="help-block">
+                        {{ field.errors|join:', '}}
+                    </span>
+                    {% endif %}
+                </div>
+            {% endfor %}
+            <div class="controls form-actions">
+                <button type="submit" class="btn btn-primary">Enviar</button>
+            </div>
+        </form>
+        {% endif %}
+
+{#                {% if success %}#}
+{#                    <div class="alert alert-success">#}
+{#                        Mensagem de contato enviada com sucesso.#}
+{#                    </div>#}
+{#                {% else %}#}
+{#                    {% include 'form.html' %}#}
+{#                        {% csrf_token %}#}
+{#                        <form action="" method="post" class="well-small">#}
+{#                            <button type="submit" class="btn bnt-primary">#}
+{#                                Enviar#}
+{#                            </button>#}
+{#                    </form>#}
+{#                {% endif %}#}
+
+
+    </div>
+
+            <div class="span6">
+                <i><smal>Sistema web desenvolvido pelo curso Técnico em Informática.</smal></i><br>
+                    <small>
+                        Aluno: <b>Gefferson Vivan</b><br>
+                        Prof. Orientador: <b>Mateus Pelloso</b><br>
+                        Prof. Colaborador: <b>Tiago Mazzutti</b><br>
+                    </small>
+            </div>
+
+        </div>
+    </div>
+
+{% endblock %}
+

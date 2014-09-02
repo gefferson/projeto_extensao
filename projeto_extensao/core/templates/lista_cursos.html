@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+
+{% block container %}
+
+    <div class="container">
+        <div class="row">
+
+            <div class="container">
+                <div class="row">
+                    <div class="span12">
+                        <form class="navbar-form pull-left" action="/lista_cursos/" method="post">
+                            {% csrf_token %}
+                            <input name="query" class="span2" type="text" placeholder="Pesquisa">
+                            <button type="submit" class="btn">Search</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <br>
+
+            <ul class="breadcrumb">
+                <li>
+                    <a href=" {% url 'estatistica' %}">Estatística</a> <span class="divider">|</span>
+                </li>
+                <li>
+                    <b>Cursos</b>
+                </li>
+            </ul>
+
+            <table class="table table-hover table-condensed">
+                <thead>
+                    <tbody class="fonte alert alert-info">
+                        <th>Curso</th>
+                        <th>Data criação</th>
+                        <th>Nº de alunos</th>
+                    </tbody>
+                    {% for dados in dados_cursos %}
+                        <tr>
+                            <td>{{ dados.0 }}</td>
+                            <td>{{ dados.1 }}</td>
+                            <td>{{ dados.2 }}</td>
+
+                        </tr>
+                    {% endfor %}
+                </thead>
+            </table>
+            {{ alunos_curso }}
+        </div>
+    </div>
+
+
+{% endblock %}
